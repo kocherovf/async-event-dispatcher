@@ -1,5 +1,5 @@
 {
-    "name": "enqueue/async-event-dispatcher",
+    "name": "kocherovf/async-event-dispatcher",
     "type": "library",
     "description": "Symfony async event dispatcher",
     "keywords": ["messaging", "queue", "async event", "event dispatcher"],
